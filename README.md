@@ -13,6 +13,8 @@ This script enables you to quickly and efficiently set the FPS for multiple foot
 - User-friendly interface
 - Presets for 23.976, 24, 29.97, 30, 59.94, 60 fps
 - Custom FPS input option
+![image](https://github.com/user-attachments/assets/63ec2efb-ff03-453b-83d0-c3dc47903845)
+![image](https://github.com/user-attachments/assets/65efb16d-b0f7-4440-a1cd-652fbc5ee73d)
 
 ## Installation
 
@@ -20,6 +22,8 @@ This script enables you to quickly and efficiently set the FPS for multiple foot
 2. Copy the file to the After Effects script folder:
    - Windows: `[After Effects installation path]/Support Files/Scripts/ScriptUI Panels`
    - macOS: `/Applications/Adobe After Effects [version]/Scripts/ScriptUI Panels`
+
+* 한글이 편한 경우 changeFPS_kr.jsx를 설치해주세요.
 
 ## Usage
 
